@@ -1,5 +1,5 @@
-# CorporateSustainabilityPerformance
-How to use Computer-Aided Text Analysis and Natural Language Processing to measure Corporate Sustainability Performance
+# CorporateSustainability
+How to use Computer-Aided Text Analysis and Natural Language Processing to measure Corporate Sustainability
 
 This is the code repository destined for the paper **"How to use Computer-Aided Text Analysis and Natural Language Processing to measure Corporate Sustainability Performance"**
 
